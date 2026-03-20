@@ -1,0 +1,1 @@
+body { background-image: linear-gradient(to right, #8EC5FC, #E0C3FC); } .card { border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); } .card-header { background-color: #28a745; color: white; border-top-left-radius: 15px; border-top-right-radius: 15px; } #fileList .list-group-item { cursor: move; }
